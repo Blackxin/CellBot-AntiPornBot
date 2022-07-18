@@ -18,7 +18,7 @@
 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RFIunknown/AuraBot-md)
  
- [![Run on Repl.it](https://repl.it/badge/github/RFIunknown/AuraBot)](https://repl.it/github/RFIunknown/AuraBot-md)
+ [![Run on Repl.it](https://repl.it/badge/github/PitGamer1909/CellBot2Original)](https://repl.it/github/PitGamer1909/CellBot2Original)
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
@@ -28,8 +28,8 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/RFIunknown/AuraBot-md.git
-cd AuraBot-md
+git clone https://github.com/PitGamer1909/CellBot2Original.git
+cd CellBot2Original
 npm i
 node .
 ```
@@ -47,7 +47,7 @@ $ pkg install ffmpeg
 $ pkg install nodejs-lts
 $ pkg install git
 $ git clone https://github.com/RFIunknown/AuraBot-md.git
-$ cd AuraBot-md
+$ cd CellBot2Original
 $ npm i
 $ node .
 ```
