@@ -20,12 +20,12 @@
  
  [![Run on Repl.it](https://repl.it/badge/github/PitGamer1909/CellBot2Original)](https://repl.it/github/PitGamer1909/CellBot2Original)
 
-## UNTUK PENGGUNA WINDOWS/VPS/RDP
+## FÜR WINDOWS/VPS/RDP-BENUTZER
 
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
-* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
+* Laden Sie Git herunter und installieren Sie es [`Klick hier`](https://git-scm.com/downloads)
+* Laden Sie NodeJS herunter und installieren Sie es [`Klick hieri`](https://nodejs.org/en/download)
+* Laden Sie FFmpeg herunter und installieren Sie es [`Klick hier`](https://ffmpeg.org/download.html) (**Vergessen Sie nicht, FFmpeg zur Umgebungsvariablen PATH hinzuzufügen**)
+* Laden Sie ImageMagick herunter und installieren Sie es [`Klick hier`](https://imagemagick.org/script/download.php)
 
 ```bash
 git clone https://github.com/PitGamer1909/CellBot2Original.git
@@ -36,7 +36,7 @@ node .
 
 ---------
 
-## UNTUK PENGGUNA TERMUX
+## FÜR TERMUX-BENUTZER
 
 * Download Termux [`Klik Disini`](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
 
@@ -52,54 +52,54 @@ $ npm i
 $ node .
 ```
 ---------
-## UNTUK PENGGUNA HEROKU
+## FÜR HEROKU-BENUTZER
 
-### Instal Buildpack
+### Buildpack installieren
 * heroku/nodejs
 * https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 * https://github.com/mcollina/heroku-buildpack-imagemagick.git
 
 ---------
-## CARA SETTINGS
+## WIE MAN EINSTELLUNGEN
 
-Untuk menambahkan atau mengedit owner ada di `settings/owner.json`
-Cantumkan sumber sc wajib!!
+Um Eigentümer hinzuzufügen oder zu bearbeiten, gehen Sie zu „settings/owner.json“.
+Include-sc-Quelle ist obligatorisch!!
 
 ---------
 ## Arguments `node . [--options] [<session name>]` 
 
-### `--session <nama file>`
+### `--session <name file>`
 
-menggunakan session dari nama file yang berbeda, default `session.data.json`
+Sitzung von anderem Dateinamen verwenden, Standard `session.data.json`
 
-contoh nama file `family.json` maka penggunaannya `node . --session 'family'`
+Beispieldateiname `family.json` verwenden Sie dann `node . --session 'family`
 
 ### `--prefix <prefix>`
 
-* `prefixes` dipisahkan oleh masing-masing karakter
-Setel awalan
+* `prefixes` durch jedes Zeichen getrennt
+Präfix festlegen
 
 ### `--server`
 
-Digunakan untuk [heroku](https://heroku.com/) atau pindai melalui situs web
+Benutzt für [heroku](https://heroku.com/) oder durch die Website scannen
 
 ### `--db <url mongodb kamu>`
 
-Buka file package.json dan isikan url mongodb kamu di bagian `mongo: --db url mongodb`!
+Öffnen Sie die Datei package.json und geben Sie Ihre Mongodb-URL in den Abschnitt ein `mongo: --db url mongodb`!
 
 ### `--db <json-server-url>`
 
-menggunakan db eksternal alih-alih db lokal, **disarankan** menggunakan mongodb
+Verwenden Sie eine externe Datenbank anstelle einer lokalen Datenbank, **empfohlen** verwenden Sie Mongodb
 
-contoh server dengan mongodb `mongodb+srv://<username>:<password>@name-of-your-db.thhce.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
+Beispielserver mit mongodb `mongodb+srv://<username>:<password>@name-of-your-db.thhce.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
 
-contoh server dengan repl `https://json-server.nurutomo.repl.co/`
+Beispielserver mit repl `https://json-server.nurutomo.repl.co/`
 
-kode: `https://repl.it/@Nurutomo/json-server`
+code: `https://repl.it/@Nurutomo/json-server`
 
 `node . --db 'https://json-server.nurutomo.repl.co/'`
 
-server harus memiliki spesifikasi seperti ini
+Der Server muss solche Spezifikationen haben
 
 #### GET
 
@@ -120,11 +120,11 @@ Content-Type: application/json
 
 ### `--big-qr`
 
-Jika qr unicode kecil tidak mendukung
+Wenn Small Unicode qr nicht unterstützt
 
 ### `--img`
 
-Aktifkan pemeriksa gambar melalui terminal
+Aktivieren Sie den Bildprüfer über das Terminal
 
 ### `--test`
 
@@ -143,11 +143,11 @@ conn.logger.level = 'debug'
 ```
 
 
-##### Special Thanks to
+##### Besonderer Dank an
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
  
-## Thanks For Some Script
+## Danke für ein Skript
  [![Aguz Familia](https://github.com/Fokusdotid.png?size=150)](https://github.com/Fokusdotid) | [![FadliDarmawan](https://github.com/FadliDarmawan.png?size=150)](https://github.com/FadliDarmawan) | [![Rhosad](https://github.com/Rhosad29.png?size=150)](https://github.com/Rhosad29) | [![RFIunknown](https://github.com/RFIunknown.png?size=150)](https://github.com/RFIunknown)
  ----|----|----
 [Aguz Familia](https://github.com/Fokusdotid) | [Fadli](https://github.com/FadliDarmawan)| [Rhosad](https://github.com/Rhosad29) | [RFIunknown](https://github.com/RFIunknown)
