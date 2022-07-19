@@ -16,7 +16,7 @@
 ## Bot Für Gruppen
 [![WhatsApp Gruppe](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BKUUviabCwFIr9pIRe9iuE)
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RFIunknown/AuraBot-md)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PitGamer1909/CellBot2Original)
  
  [![Auf Repl.it ausführen](https://repl.it/badge/github/PitGamer1909/CellBot2Original)](https://repl.it/github/PitGamer1909/CellBot2Original)
 
