@@ -18,7 +18,7 @@
 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PitGamer1909/CellBot-AntiPornBot)
  
- [![Auf Repl.it ausführen](https://repl.it/badge/github/PitGamer1909/CellBot2Original)](https://repl.it/github/PitGamer1909/CellBot2Original)
+ [![Auf Repl.it ausführen](https://repl.it/badge/github/PitGamer1909/CellBot-AntiPornBot)](https://repl.it/github/PitGamer1909/CellBot-AntiPornBot)
 
 ## FÜR WINDOWS/VPS/RDP-BENUTZER
 
@@ -29,7 +29,7 @@
 
 ```bash
 git clone https://github.com/PitGamer1909/CellBot-AntiPornBot.git
-cd CellBot2Original
+cd CellBot-AntiPornBot
 npm i
 node .
 ```
