@@ -1,22 +1,22 @@
-# CellBot2Original
+# CellBot-AntiPornBot
 
-<a href = "https://github.com/PitGamer1909/CellBot2Original"><img src = "https://cardivo.vercel.app/api?name=CellBot2Original&description=CellBot2Original,%20Bot%20WhatsApp%20multi%20device.%20Erstellt%20von%20Nico%20Pit,%20Joker,%20and%20RFIunknown.&image=https://telegra.ph/file/9f522389d2ed68e53262d.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=PitGamer1909&pattern=topography&colorPattern=%23eaeaea"/><a>
+<a href = "[https://github.com/PitGamer1909/CellBot-AntiPornBot](https://github.com/PitGamer1909/CellBot-AntiPornBot)"><img src = "https://cardivo.vercel.app/api?name=CellBot2Original&description=CellBot2Original,%20Bot%20WhatsApp%20multi%20device.%20Erstellt%20von%20Nico%20Pit,%20Joker,%20and%20RFIunknown.&image=https://telegra.ph/file/9f522389d2ed68e53262d.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=PitGamer1909&pattern=topography&colorPattern=%23eaeaea"/><a>
 
  <a href="https://visitor-badge.glitch.me/badge?page_id=RFIunknown/AuraBot-md"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=RFIunknown/AuraBot-md"></a>
-<a href="https://github.com/PitGamer1909/CellBot2Original/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RFIunknown/AuraBot-md?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot2Original/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/RFIunknown/AuraBot-md?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot2Original/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/RFIunknown/AuraBot-md?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot2Original/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/RFIunknown/AuraBot-md?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot2Original/issues"><img title="Issues" src="https://img.shields.io/github/issues/RFIunknown/AuraBot-md?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot2Original/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/RFIunknown/AuraBot-md?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot2Original/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/RFIunknown/AuraBot-md?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot2Original/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/RFIunknown/AuraBot-md?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RFIunknown/AuraBot-md?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/RFIunknown/AuraBot-md?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/RFIunknown/AuraBot-md?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/RFIunknown/AuraBot-md?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/issues"><img title="Issues" src="https://img.shields.io/github/issues/RFIunknown/AuraBot-md?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/RFIunknown/AuraBot-md?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/RFIunknown/AuraBot-md?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/RFIunknown/AuraBot-md?label=PullRequest&color=red&style=flat-square"></a>
 
 
 ## Bot Für Gruppen
-[![WhatsApp Gruppe](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BKUUviabCwFIr9pIRe9iuE)
+[![WhatsApp Gruppe](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Imnqshb30owHGP9HcaMXcE)
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PitGamer1909/CellBot2Original)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PitGamer1909/CellBot-AntiPornBot)
  
  [![Auf Repl.it ausführen](https://repl.it/badge/github/PitGamer1909/CellBot2Original)](https://repl.it/github/PitGamer1909/CellBot2Original)
 
@@ -28,7 +28,7 @@
 * Laden Sie ImageMagick herunter und installieren Sie es [`Klick hier`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/PitGamer1909/CellBot2Original.git
+git clone https://github.com/PitGamer1909/CellBot-AntiPornBot.git
 cd CellBot2Original
 npm i
 node .
