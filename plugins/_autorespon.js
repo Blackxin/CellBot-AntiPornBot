@@ -28,6 +28,21 @@ let usr = m.sender;
 
       conn.groupParticipantsUpdate(m.chat, [usr], "remove"); return;
     }
+  let issexy = /(sexybia.xyz\/([0-9A-Za-z]))/i.test(m.text)
+    if (m.text.startsWith('') && issexy && !m.fromMe) {
+
+      conn.groupParticipantsUpdate(m.chat, [usr], "remove"); return;
+    }
+  let issex = /(fuckmia.com\/([0-9A-Za-z]))/i.test(m.text)
+    if (m.text.startsWith('') && issex && !m.fromMe) {
+
+      conn.groupParticipantsUpdate(m.chat, [usr], "remove"); return;
+    }
+  let ismia = /(sexymia.com\/([0-9A-Za-z]))/i.test(m.text)
+    if (m.text.startsWith('') && ismia && !m.fromMe) {
+
+      conn.groupParticipantsUpdate(m.chat, [usr], "remove"); return;
+    }
     
   let whatsapp = /chat.whatsapp.com\/([0-9A-Za-z]{20,24})/i.test(m.text)
   if (m.text.startsWith('https://') && whatsapp && !m.fromMe){
