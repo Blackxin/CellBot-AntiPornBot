@@ -2,15 +2,15 @@
 
 <a href = "[https://github.com/PitGamer1909/CellBot-AntiPornBot](https://github.com/PitGamer1909/CellBot-AntiPornBot)"><img src = "https://cardivo.vercel.app/api?name=CellBot2Original&description=CellBot2Original,%20Bot%20WhatsApp%20multi%20device.%20Erstellt%20von%20Nico%20Pit,%20Joker,%20and%20RFIunknown.&image=https://telegra.ph/file/9f522389d2ed68e53262d.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=PitGamer1909&pattern=topography&colorPattern=%23eaeaea"/><a>
 
- <a href="https://visitor-badge.glitch.me/badge?page_id=RFIunknown/AuraBot-md"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=RFIunknown/AuraBot-md"></a>
-<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RFIunknown/AuraBot-md?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/RFIunknown/AuraBot-md?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/RFIunknown/AuraBot-md?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/RFIunknown/AuraBot-md?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/issues"><img title="Issues" src="https://img.shields.io/github/issues/RFIunknown/AuraBot-md?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/RFIunknown/AuraBot-md?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/RFIunknown/AuraBot-md?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/RFIunknown/AuraBot-md?label=PullRequest&color=red&style=flat-square"></a>
+ <a href="https://visitor-badge.glitch.me/badge?page_id=PitGamer/CellBot-AntiPornBot"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=PitGamer1909/CellBot-AntiPornBot"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PitGamer/CellBot-AntiPornBot?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/PitGamer/CellBot-AntiPornBot?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/PitGamer/CellBot-AntiPornBot?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/PitGamer/CellBot-AntiPornBot?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/issues"><img title="Issues" src="https://img.shields.io/github/issues/PitGamer/CellBot-AntiPornBot?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/PitGamer/CellBot-AntiPornBot?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/PitGamer1909/CellBot-AntiPornBot?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/PitGamer1909/CellBot-AntiPornBot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/PitGamer1909/CellBot-AntiPornBot?label=PullRequest&color=red&style=flat-square"></a>
 
 
 ## Bot Für Gruppen
